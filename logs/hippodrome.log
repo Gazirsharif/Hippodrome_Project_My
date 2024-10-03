@@ -1,0 +1,29 @@
+2024-10-03 23:07:45,538 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-10-03 23:07:45,541 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-10-03 23:07:45,541 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-10-03 23:07:45,541 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2024-10-03 23:07:45,541 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2024-10-03 23:07:45,541 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2024-10-03 23:07:45,564 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2024-10-03 23:07:45,572 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2024-10-03 23:07:45,572 INFO  Main: Начало скачек. Количество участников: 7
+2024-10-03 23:08:06,020 INFO  Main: Окончание скачек. Победитель: Cherry
+2024-10-03 23:08:25,846 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-10-03 23:08:25,850 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-10-03 23:08:25,850 ERROR Horse: Name is blank
+2024-10-03 23:08:44,619 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-10-03 23:08:44,624 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-10-03 23:08:44,625 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-10-03 23:08:44,625 ERROR Horse: Name is null
+2024-10-03 23:09:07,965 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-10-03 23:09:07,970 ERROR Horse: Speed is negative
+2024-10-03 23:09:31,753 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2024-10-03 23:09:31,758 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2024-10-03 23:09:31,758 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2024-10-03 23:09:31,758 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2024-10-03 23:09:31,758 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2024-10-03 23:09:31,759 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2024-10-03 23:09:31,759 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2024-10-03 23:09:31,760 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2024-10-03 23:09:31,760 INFO  Main: Начало скачек. Количество участников: 7
+2024-10-03 23:09:52,141 INFO  Main: Окончание скачек. Победитель: Cherry
